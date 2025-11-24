@@ -1,0 +1,10 @@
+{
+  "cols": ["firstName", "lastName", "email", "postalZip", "phone"],
+  "data": [
+    ["Ava", "Smith", "ava.smith@yahoo.com", "12345", "(816) 530-4269"],
+    ["Liam", "Brown", "liam.brown@outlook.com", "90210", "1-811-920-9732"],
+    ["Sophia", "Johnson", "sophia.j88@gmail.com", "12A45", "+1 (404) 299-5821"],
+    ["Noah", "Williams", "noah.williams@protonmail.com", "55067", "(312) 889-0044"],
+    ["Mia", "Davis", "mia_davis@company.org", "A9932", "981-22-5544"]
+  ]
+}
